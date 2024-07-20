@@ -1,6 +1,6 @@
 {
 	"// baseurl" : "https://bargue.mbivert.com",
-	"baseurl" : "file:///home/mb/gits/bargue/output/",
+	"baseurl" : "file:///home/mb/gits/bargue/output",
 
 	"title" : {
 		"en" : "Charle's Bargue drawing course",
@@ -93,8 +93,8 @@
 				"fr" : "Têtes de profi"
 			},
 			"url" : {
-				"en" : "legs/index.html",
-				"fr" : "jambes/index.html"
+				"en" : "heads-in-profile/index.html",
+				"fr" : "tetes-de-profile/index.html"
 			},
 			"plates" : [
 			]
@@ -105,8 +105,8 @@
 				"fr" : "Têtes de trois-quart"
 			},
 			"url" : {
-				"en" : "legs/index.html",
-				"fr" : "jambes/index.html"
+				"en" : "heads-in-three-quarter-views/index.html",
+				"fr" : "tetes-de-trois-quart/index.html"
 			},
 			"plates" : [
 			]
@@ -117,8 +117,8 @@
 				"fr" : "Têtes de face"
 			},
 			"url" : {
-				"en" : "legs/index.html",
-				"fr" : "jambes/index.html"
+				"en" : "heads-in-frontal-views/index.html",
+				"fr" : "tetes-de-face/index.html"
 			},
 			"plates" : [
 			]
@@ -149,7 +149,30 @@
 		}
 	},
 
-	"menu" : [
+	"menu" : {
+		"fr" : [
+			[ "🏠",                  "/",                    [] ],
+			[ "Fragments de têtes", "/fragments-de-tetes/", [] ],
+			[ "Membres",                   "/membres/", [
+				[ "Pieds",  "/pieds/",  [] ],
+				[ "Mains",  "/mains/",  [] ],
+				[ "Bras",   "/bras/",   [] ],
+				[ "Jambes", "/jambes/", [] ]
+			]],
+			[ "Têtes",                     "/tetes/", [
+				[ "Têtes de profile",     "/tetes-de-profile/",      [] ],
+				[ "Têtes de trois-quart", "/tetes-de-trois-quarts/", [] ],
+				[ "Têtes de face",        "/tetes-de-face/",         [] ]
+			]],
+			[ "Torses",    "/torses/",    [] ],
+			[ "Ensembles", "/ensembles/", [] ],
+			[ "À propos",  "/à-propos/",  [] ]
+		],
+		"en" : [
+		]
+	},
+
+	"// menu" : [
 		"home",
 		"parts-of-the-head",
 		[
@@ -170,6 +193,14 @@
 		"about"
 	],
 	"i18n" : {
+		"parts-of-the-head" : {
+			"en" : "Parts of the head",
+			"fr" : "Fragments de têtes"
+		},
+		"heads" : {
+			"en" : "Heads",
+			"fr" : "Têtes"
+		},
 		"Translations" : {
 			"en" : "Translations",
 			"fr" : "Traductions"
