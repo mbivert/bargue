@@ -169,6 +169,22 @@
 			[ "À propos",  "/à-propos/",  [] ]
 		],
 		"en" : [
+			[ "🏠",                  "/",                   [] ],
+			[ "Parts of the head",  "/parts-of-the-head/", [] ],
+			[ "Limbs",     "/limbs/", [
+				[ "Feet",  "/feet/"  ],
+				[ "Hands", "/hands/" ],
+				[ "Arms",  "/arms/"  ],
+				[ "Legs",  "/legs/"  ]
+			]],
+			[ "Heads",                            "/heads/", [
+				[ "Heads in profile",             "/heads-in-profile/"             ],
+				[ "Heads in three-quarter views", "/heads-in-three-quarter-views/" ],
+				[ "Heads in frontal views",       "/heads-in-frontal-views/"       ]
+			]],
+			[ "Torsos",           "/torsos/",           [] ],
+			[ "Complete figures", "/complete-figures/", [] ],
+			[ "About",            "/about/",            [] ]
 		]
 	},
 

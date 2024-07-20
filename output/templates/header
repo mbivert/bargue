@@ -16,26 +16,32 @@
 		<header>
 			<nav>
 				<div id="menu">
-					<a class="menu-entry" href="{{ .db.baseurl }}/" >🏠</a>
-					<a class="menu-entry" href="{{ .db.baseurl }}/parts-of-the-head/">
-						{{- index .db.i18n "parts-of-the-head" $lang -}}
-					</a>
-					<div class="menu-entry">
-						<a class="menu-entry-url" href="{{ .db.baseurl }}/heads/">
-							{{- index .db.i18n "heads" $lang -}}
+				{{- $p := . -}}
+				{{- range (index .db.menu $lang) -}}
+					{{- $title := (index . 0) -}}
+					{{- $url   := print ($p.db.baseurl) (index . 1) -}}
+					{{- $smenu := (index . 2) -}}
+					{{- if eq (len $smenu) 0 -}}
+						<a class="menu-entry" href="{{ $url }}">
+							{{- $title -}}
 						</a>
-						<div class="sub-menu">
-							<a href="{{ .db.baseurl }}/heads-in-profile/">Heads in profile</a>
-							<a href="{{ .db.baseurl }}/heads-in-three-quarter-views/">Heads in three-quarter views</a>
-							<a href="{{ .db.baseurl }}/heads-in-frontal-views/">Heads in frontal views</a>
-
-						</div>
-					</div>
-					{{- if eq $lang "fr" -}}
-						<a class="menu-entry" href="{{ .db.baseurl }}/fr/a-propos/">À propos</a>
 					{{- else -}}
-						<a class="menu-entry" href="{{ .db.baseurl }}/about/">About</a>
+						<div class="menu-entry">
+							<a class="menu-entry-url" href="{{ $url }}">
+								{{- $title -}}
+							</a>
+							<div class="sub-menu">
+							{{- range $smenu -}}
+								{{- $title := (index . 0) -}}
+								{{- $url   := print ($p.db.baseurl) (index . 1) -}}
+								<a class="menu-entry" href="{{ $url }}">
+									{{- $title -}}
+								</a>
+							{{- end -}}
+							</div>
+						</div>
 					{{- end -}}
+				{{- end -}}
 				</div>
 			</nav>
 			<div id="important">
