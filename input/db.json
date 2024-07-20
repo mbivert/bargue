@@ -1,0 +1,198 @@
+{
+	"// baseurl" : "https://bargue.mbivert.com",
+	"baseurl" : "file:///home/mb/gits/bargue/output/",
+
+	"title" : {
+		"en" : "Charle's Bargue drawing course",
+		"fr" : "Cours de dessin de Charles Bargue"
+	},
+
+	"description" : {
+		"en" : "Charles Bargue's drawing course",
+		"fr" : "Cours de dessin de Charles Bargue"
+	},
+
+	"keywords" : {
+		"en" : [
+			"drawing", "painting", "academic", "bargue",
+			"Charles Bargue", "drawing course"
+		],
+		"fr" : [
+			"dessin", "peinture", "académique", "bargue",
+			"Charles Bargue", "cours de dessin"
+		]
+	},
+
+	"author" : "Mathieu Bivert",
+
+	"groups" : {
+		"parts-of-the-head" : {
+			"title" : {
+				"en" : "Parts of the head",
+				"fr" : "Fragments de têtes"
+			},
+			"url" : {
+				"en" : "parts-of-the-head/index.html",
+				"fr" : "fragments-de-tetes/index.html"
+			},
+			"plates" : [
+				"plate_I-01_eyes"
+			]
+		},
+		"feet" : {
+			"title" : {
+				"en" : "Feet",
+				"fr" : "Pieds"
+			},
+			"url" : {
+				"en" : "feet/index.html",
+				"fr" : "pieds/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"hands" : {
+			"title" : {
+				"en" : "Hands",
+				"fr" : "Mains"
+			},
+			"url" : {
+				"en" : "hands/index.html",
+				"fr" : "mains/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"arms" : {
+			"title" : {
+				"en" : "Arms",
+				"fr" : "Bras"
+			},
+			"url" : {
+				"en" : "arms/index.html",
+				"fr" : "bras/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"legs" : {
+			"title" : {
+				"en" : "Legs",
+				"fr" : "Jambes"
+			},
+			"url" : {
+				"en" : "legs/index.html",
+				"fr" : "jambes/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"heads-in-profile" : {
+			"title" : {
+				"en" : "Heads in profile",
+				"fr" : "Têtes de profi"
+			},
+			"url" : {
+				"en" : "legs/index.html",
+				"fr" : "jambes/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"heads-in-three-quarter-views" : {
+			"title" : {
+				"en" : "Heads in three-quarter views",
+				"fr" : "Têtes de trois-quart"
+			},
+			"url" : {
+				"en" : "legs/index.html",
+				"fr" : "jambes/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"heads-in-frontal-views" : {
+			"title" : {
+				"en" : "Heads in frontal views",
+				"fr" : "Têtes de face"
+			},
+			"url" : {
+				"en" : "legs/index.html",
+				"fr" : "jambes/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"torsos" : {
+			"title" : {
+				"en" : "Torsos",
+				"fr" : "Torses"
+			},
+			"url" : {
+				"en" : "torsos/index.html",
+				"fr" : "torses/index.html"
+			},
+			"plates" : [
+			]
+		},
+		"complete-figures" : {
+			"title" : {
+				"en" : "Complete figures",
+				"fr" : "Ensembles"
+			},
+			"url" : {
+				"en" : "complete-figures/index.html",
+				"fr" : "ensembles/index.html"
+			},
+			"plates" : [
+			]
+		}
+	},
+
+	"menu" : [
+		"home",
+		"parts-of-the-head",
+		[
+			{ "en" : "Limbs", "fr" : "Membres" },
+
+			"feet", "hands", "arms", "legs"
+		],
+		[
+			{ "en" : "Heads", "fr" : "Têtes" },
+
+			"heads-in-profile",
+			"heads-in-three-quarter-views",
+			"heads-in-frontal-views"
+		],
+		"torsos",
+		"complete-figures",
+
+		"about"
+	],
+	"i18n" : {
+		"Translations" : {
+			"en" : "Translations",
+			"fr" : "Traductions"
+		},
+		"by" : {
+			"en" : "by",
+			"fr" : "par"
+		},
+		"through" : {
+			"en" : "through",
+			"fr" : "via"
+		},
+		"Title" : {
+			"en" : "Title",
+			"fr" : "Titre"
+		},
+		"in-the-series" : {
+			"en" : "In the series",
+			"fr" : "Dans la série"
+		},
+		"toc" : {
+			"en" : "Table of contents",
+			"fr" : "Table des matières"
+		}
+	}
+}

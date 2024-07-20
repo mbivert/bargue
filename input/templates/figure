@@ -1,0 +1,46 @@
+{{- $p := . -}}
+{{- $lang := index .args 1 -}}
+{{- with index $.db.imgs (index .args 0) -}}
+{{- $l := print $p.db.baseurl "/" .file -}}
+{{- $d := parse (index .descrs $lang) -}}
+<figure>
+	<a href="{{- $l -}}">
+	<img class="framed" loading="lazy" alt="{{- html $d -}}" src="{{ $l -}}" />
+	</a>
+	{{/* Display license-related <meta> tags */}}
+	{{- if .license -}}
+		{{- $x := index $p.db.licenses .license -}}
+		{{- if $x -}}
+			{{- $u := $x.url -}}
+			{{- if not $u -}}
+				{{- $u = index $p.db.urls .license -}}
+			{{- end -}}
+			<meta property="license" content="{{ $u }}" />
+		{{ end -}}
+		{{- if .urls -}}
+			{{- range $n, $u := .urls -}}
+				<meta property="acquireLicensePage" content="{{ $u }}" />
+			{{- end -}}
+		{{- end -}}
+	{{- end }}
+	{{/* Remove if empty; this creates odd space otherwise */}}
+	{{- if or $d .author .urls .license -}}
+	<figcaption>
+		<p> {{- $d -}}
+		{{- if .author }}
+			{{ index $p.db.i18n "by" $lang }} {{ template "people" wrap .author $lang }}
+		{{ end -}}
+		{{- if .urls -}}
+			{{- index $p.db.i18n "through" $lang -}}
+			{{- range $n, $u := .urls }}
+				{{ template "url" wrap $u $n }}
+			{{ end -}}
+		{{- end -}}
+		{{- if .license -}}
+			– {{ template "license" wrap .license -}}
+		{{- end -}}
+		</p>
+	</figcaption>
+	{{- end -}}
+</figure>
+{{- end -}}

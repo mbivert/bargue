@@ -1,0 +1,174 @@
+h1#title {
+	text-align    : center;
+}
+
+@font-face {
+	font-family : 'Computer Modern Serif';
+	src         : url('/fonts/cmunrm.woff') format('woff');
+	font-weight : normal;
+	font-style  : normal;
+}
+
+@font-face {
+	font-family : 'Computer Modern Serif';
+	src         : url('/fonts/cmunbx.woff') format('woff');
+	font-weight : bold;
+	font-style  : normal;
+}
+
+@font-face {
+	font-family : 'Computer Modern Serif';
+	src         : url('/fonts/cmunti.woff') format('woff');
+	font-weight : normal;
+	font-style  : italic;
+}
+
+@font-face {
+	font-family : 'Computer Modern Serif';
+	src         : url('/fonts/cmunbi.woff') format('woff');
+	font-weight : bold;
+	font-style  : italic;
+}
+
+/*
+ * Quotes
+ */
+blockquote {
+	font-style   : italic;
+}
+
+/*
+ * Code blocks.
+ */
+pre {
+	margin-left  : 2em;
+}
+
+/*
+ * Menu
+ */
+#menu {
+	font-size   : 1.5em;
+	text-shadow : 4px 4px 4px #aaa;
+}
+
+#menu {
+	list-style-type      : none;
+	padding-inline-start : 0px;
+}
+
+#menu li {
+	display           : block;
+	position          : relative;
+}
+
+#menu a {
+	display         : flex;
+	justify-content : center;
+	align-items     : center;
+	color           : darkblue;
+	height          : 100%;
+	text-decoration : none;
+}
+
+#menu a:hover {
+	background-color : #fbd7ad;
+}
+
+/*
+ * Emphasize the fact that it's an external link
+ * to a new tab.
+ */
+#menu a[target="_blank"]:hover {
+	background-color : #ffbe71;
+}
+
+#menu a[target="_blank"] {
+	background-image    : url(/ext-link.svg);
+	background-position : center right;
+	background-repeat   : no-repeat;
+}
+
+#menu	 {
+	display           : grid;
+	grid-auto-flow    : column;
+	grid-auto-columns : 1fr;
+
+	border-top        : 1px solid black;
+	border-bottom     : 1px solid black;
+
+	padding-top       : 3px;
+	padding-bottom    : 3px;
+
+	margin-bottom     : 3px;
+}
+
+@media only screen and (max-width: 800px) {
+	#menu {
+		grid-auto-flow : row;
+	}
+}
+
+/*
+ * Overall page
+ */
+body {
+	width            : 75%;
+	text-align       : justify;
+	margin-left      : 12.5%;
+	margin-right     : 12.5%;
+	background-color : #ffeed4e0;
+	font-family      : 'Computer Modern Serif';
+}
+
+@media only screen and (max-width: 700px) {
+	body {
+		width            : 90%;
+		margin-left      : 5%;
+		margin-right     : 5%;
+	}
+}
+
+/*
+ * Center all images by default
+ */
+img {
+	display       : block;
+	margin-left   : auto;
+	margin-right  : auto;
+	max-width     : 75%;
+	max-height    : 90vh;
+}
+
+/*
+ * Stylized image's captions.
+ */
+
+figure figcaption {
+	color         : dimgrey;
+	margin-left   : 20%;
+	margin-right  : 20%;
+	font-style    : italic;
+}
+
+@media only screen and (max-width: 700px) {
+	figure {
+		margin-left   : 5%;
+		margin-right  : 5%;
+	}
+
+	figure figcaption {
+		margin-left   : 5%;
+		margin-right  : 5%;
+	}
+}
+
+/*
+ * Important message
+ */
+#important {
+	font-style    : italic;
+	text-align    : center;
+	margin-top    : 1em;
+	margin-bottom : 1em;
+}

@@ -1,0 +1,19 @@
+{{- $r := index .args 0 -}}
+{{- $u := index .db.urls $r -}}
+{{- $t := $u.title -}}
+{{- $internal := false -}}
+{{- if ne (len .args) 1 -}}
+	{{- $t = index .args 1 -}}
+{{- end -}}
+{{- $l := $u.url -}}
+
+{{/* TODO/XXX log it / make it more visible, etc. */}}
+{{- if not $l -}}
+	{{- warn (printf "%s not found in URL database" $r) -}}
+	{{- $l = "TODO / NOT FOUND" -}}
+{{- else if not (isURL $l) -}}
+	{{- $internal = true -}}
+	{{- $l = print .db.baseurl "/" $l -}}
+{{- end -}}
+
+{{- template "urlhtml" (wrap $l $t $internal) -}}
