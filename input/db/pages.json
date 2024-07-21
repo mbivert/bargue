@@ -69,6 +69,20 @@
 			"name"   : "Bras"
 		}
 	},
+	"legs" : {
+		"en" : {
+			"url"    : "/legs/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Legs"
+		},
+		"fr" : {
+			"url"    : "/fr/jambes/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Jambes"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -179,6 +193,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,18 - Bras d'homme, vertical"
+		}
+	},
+	"plate_I-25-leg-of-germanicus-in-profile" : {
+		"en" : {
+			"url"    : "/plate_I-25-leg-of-germanicus-in-profile/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,25 - Legs of Germanicus in profile"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-25-jambe-du-germanicus-profil/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,25 - Jambe du Germanicus, profil"
 		}
 	}
 }
