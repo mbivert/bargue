@@ -1,10 +1,13 @@
+{{/* TODO: quick hack; see if/how we can merge this with ./figure */}}
 {{- $p := . -}}
+{{- $name := index .args 0 -}}
 {{- $lang := index .args 1 -}}
-{{- with index $.db.imgs (index .args 0) -}}
+{{- with index $.db.imgs $name -}}
 {{- $l := print $p.db.baseurl "/" .file -}}
+{{- $al := print $p.db.baseurl "/" $name "/" -}}
 {{- $d := parse (index .descrs $lang) -}}
 <figure>
-	<a href="{{- $l -}}">
+	<a href="{{- $al -}}">
 	<img class="framed" loading="lazy" alt="{{- html $d -}}" src="{{ $l -}}" />
 	</a>
 	{{/* Display license-related <meta> tags */}}
@@ -24,23 +27,8 @@
 		{{- end -}}
 	{{- end }}
 	{{/* Remove if empty; this creates odd space otherwise */}}
-	{{- if or $d .author .urls .license -}}
-	<figcaption>
-		<p> {{- $d -}}
-		{{- if .author }}
-			{{ index $p.db.i18n "by" $lang }} {{ template "people" wrap .author $lang }}
-		{{ end -}}
-		{{- if .urls -}}
-			{{- index $p.db.i18n "through" $lang -}}
-			{{- range $n, $u := .urls }}
-				{{ template "url" wrap $u $n }}
-			{{ end -}}
-		{{- end -}}
-		{{- if .license -}}
-			– {{ template "license" wrap .license -}}
-		{{- end -}}
-		</p>
-	</figcaption>
+	{{- if $d -}}
+	<figcaption style="text-align:center"> <p> {{- $d -}} </p> </figcaption>
 	{{- end -}}
 </figure>
 {{- end -}}

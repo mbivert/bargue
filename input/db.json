@@ -25,149 +25,34 @@
 
 	"author" : "Mathieu Bivert",
 
+	"// groups -> $name -> { names : { en, fr } plates : [] }" : "",
 	"groups" : {
-		"parts-of-the-head" : {
-			"title" : {
-				"en" : "Parts of the head",
-				"fr" : "Fragments de têtes"
-			},
-			"url" : {
-				"en" : "parts-of-the-head/index.html",
-				"fr" : "fragments-de-tetes/index.html"
-			},
-			"plates" : [
-				"plate_I-01_eyes"
-			]
-		},
-		"feet" : {
-			"title" : {
-				"en" : "Feet",
-				"fr" : "Pieds"
-			},
-			"url" : {
-				"en" : "feet/index.html",
-				"fr" : "pieds/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"hands" : {
-			"title" : {
-				"en" : "Hands",
-				"fr" : "Mains"
-			},
-			"url" : {
-				"en" : "hands/index.html",
-				"fr" : "mains/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"arms" : {
-			"title" : {
-				"en" : "Arms",
-				"fr" : "Bras"
-			},
-			"url" : {
-				"en" : "arms/index.html",
-				"fr" : "bras/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"legs" : {
-			"title" : {
-				"en" : "Legs",
-				"fr" : "Jambes"
-			},
-			"url" : {
-				"en" : "legs/index.html",
-				"fr" : "jambes/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"heads-in-profile" : {
-			"title" : {
-				"en" : "Heads in profile",
-				"fr" : "Têtes de profi"
-			},
-			"url" : {
-				"en" : "heads-in-profile/index.html",
-				"fr" : "tetes-de-profile/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"heads-in-three-quarter-views" : {
-			"title" : {
-				"en" : "Heads in three-quarter views",
-				"fr" : "Têtes de trois-quart"
-			},
-			"url" : {
-				"en" : "heads-in-three-quarter-views/index.html",
-				"fr" : "tetes-de-trois-quart/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"heads-in-frontal-views" : {
-			"title" : {
-				"en" : "Heads in frontal views",
-				"fr" : "Têtes de face"
-			},
-			"url" : {
-				"en" : "heads-in-frontal-views/index.html",
-				"fr" : "tetes-de-face/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"torsos" : {
-			"title" : {
-				"en" : "Torsos",
-				"fr" : "Torses"
-			},
-			"url" : {
-				"en" : "torsos/index.html",
-				"fr" : "torses/index.html"
-			},
-			"plates" : [
-			]
-		},
-		"complete-figures" : {
-			"title" : {
-				"en" : "Complete figures",
-				"fr" : "Ensembles"
-			},
-			"url" : {
-				"en" : "complete-figures/index.html",
-				"fr" : "ensembles/index.html"
-			},
-			"plates" : [
-			]
-		}
+		"parts-of-the-head" : [
+			"plate_I-01_eyes",
+			"plate_I-02_mouths",
+			"plate_I-03_noses"
+		],
+		"feet" : [
+		],
+		"hands" : [
+		],
+		"arms" : [
+		],
+		"legs" : [
+		],
+		"heads-in-profile" : [
+		],
+		"heads-in-three-quarter-views" : [
+		],
+		"heads-in-frontal-views" : [
+		],
+		"torsos" : [
+		],
+		"complete-figures" : [
+		]
 	},
 
 	"menu" : {
-		"fr" : [
-			[ "🏠",                  "/",                    [] ],
-			[ "Fragments de têtes", "/fragments-de-tetes/", [] ],
-			[ "Membres",                   "/membres/", [
-				[ "Pieds",  "/pieds/",  [] ],
-				[ "Mains",  "/mains/",  [] ],
-				[ "Bras",   "/bras/",   [] ],
-				[ "Jambes", "/jambes/", [] ]
-			]],
-			[ "Têtes",                     "/tetes/", [
-				[ "Têtes de profile",     "/tetes-de-profile/",      [] ],
-				[ "Têtes de trois-quart", "/tetes-de-trois-quarts/", [] ],
-				[ "Têtes de face",        "/tetes-de-face/",         [] ]
-			]],
-			[ "Torses",    "/torses/",    [] ],
-			[ "Ensembles", "/ensembles/", [] ],
-			[ "À propos",  "/à-propos/",  [] ]
-		],
 		"en" : [
 			[ "🏠",                  "/",                   [] ],
 			[ "Parts of the head",  "/parts-of-the-head/", [] ],
@@ -185,41 +70,39 @@
 			[ "Torsos",           "/torsos/",           [] ],
 			[ "Complete figures", "/complete-figures/", [] ],
 			[ "About",            "/about/",            [] ]
+		],
+		"fr" : [
+			[ "🏠",                  "/fr/",                       [] ],
+			[ "Fragments de têtes", "/fr/fragments-de-tetes/", [] ],
+			[ "Membres",                   "/fr/membres/", [
+				[ "Pieds",  "/fr/pieds/",  [] ],
+				[ "Mains",  "/fr/mains/",  [] ],
+				[ "Bras",   "/fr/bras/",   [] ],
+				[ "Jambes", "/fr/jambes/", [] ]
+			]],
+			[ "Têtes",                    "/fr/tetes/", [
+				[ "Têtes de profile",     "/fr/tetes-de-profile/",      [] ],
+				[ "Têtes de trois-quart", "/fr/tetes-de-trois-quarts/", [] ],
+				[ "Têtes de face",        "/fr/tetes-de-face/",         [] ]
+			]],
+			[ "Torses",    "/fr/torses/",    [] ],
+			[ "Ensembles", "/fr/ensembles/", [] ],
+			[ "À propos",  "/fr/a-propos/",  [] ]
 		]
 	},
 
-	"// menu" : [
-		"home",
-		"parts-of-the-head",
-		[
-			{ "en" : "Limbs", "fr" : "Membres" },
-
-			"feet", "hands", "arms", "legs"
-		],
-		[
-			{ "en" : "Heads", "fr" : "Têtes" },
-
-			"heads-in-profile",
-			"heads-in-three-quarter-views",
-			"heads-in-frontal-views"
-		],
-		"torsos",
-		"complete-figures",
-
-		"about"
-	],
 	"i18n" : {
-		"parts-of-the-head" : {
-			"en" : "Parts of the head",
-			"fr" : "Fragments de têtes"
-		},
-		"heads" : {
-			"en" : "Heads",
-			"fr" : "Têtes"
-		},
 		"Translations" : {
 			"en" : "Translations",
 			"fr" : "Traductions"
+		},
+		"date" : {
+			"en" : "date",
+			"fr" : "date"
+		},
+		"update" : {
+			"en" : "update",
+			"fr" : "màj"
 		},
 		"by" : {
 			"en" : "by",
@@ -232,14 +115,6 @@
 		"Title" : {
 			"en" : "Title",
 			"fr" : "Titre"
-		},
-		"in-the-series" : {
-			"en" : "In the series",
-			"fr" : "Dans la série"
-		},
-		"toc" : {
-			"en" : "Table of contents",
-			"fr" : "Table des matières"
 		}
 	}
 }

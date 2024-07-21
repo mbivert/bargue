@@ -1,0 +1,12 @@
+{{- $plate := index .args 0 -}}
+{{- $lang  := index .args 1 -}}
+{{/* Do we have at least one translation? (≥2 entries for that plate) */}}
+{{- if ge (len (index .db.plates $plate)) 2 -}}
+	{{- $base := .db.baseurl -}}
+	<u>translation</u>:
+	{{- range $k, $v := (index .db.plates $plate) -}}
+		{{- if not (eq $k $lang) -}}
+			<a href="{{ $base }}{{ $v.url }}">{{ $k }}</a>
+		{{- end -}}
+	{{- end -}}
+{{- end -}}

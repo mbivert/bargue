@@ -4,28 +4,28 @@ h1#title {
 
 @font-face {
 	font-family : 'Computer Modern Serif';
-	src         : url('/fonts/cmunrm.woff') format('woff');
+	src         : url('{{< .db.baseurl >}}/fonts/cmunrm.woff') format('woff');
 	font-weight : normal;
 	font-style  : normal;
 }
 
 @font-face {
 	font-family : 'Computer Modern Serif';
-	src         : url('/fonts/cmunbx.woff') format('woff');
+	src         : url('{{< .db.baseurl >}}/fonts/cmunbx.woff') format('woff');
 	font-weight : bold;
 	font-style  : normal;
 }
 
 @font-face {
 	font-family : 'Computer Modern Serif';
-	src         : url('/fonts/cmunti.woff') format('woff');
+	src         : url('{{< .db.baseurl >}}/fonts/cmunti.woff') format('woff');
 	font-weight : normal;
 	font-style  : italic;
 }
 
 @font-face {
 	font-family : 'Computer Modern Serif';
-	src         : url('/fonts/cmunbi.woff') format('woff');
+	src         : url('{{< .db.baseurl >}}/fonts/cmunbi.woff') format('woff');
 	font-weight : bold;
 	font-style  : italic;
 }
@@ -59,6 +59,7 @@ pre {
 #menu > .menu-entry {
 	display           : block;
 	position          : relative;
+	text-align        : center;
 }
 
 #menu a {
@@ -109,6 +110,26 @@ pre {
 	#menu {
 		grid-auto-flow : row;
 	}
+}
+
+/*
+ * Current article's tags, translations
+ */
+#tags, #trs, #date, #update {
+	text-align: right;
+}
+
+/*
+ * Meta data block
+ */
+
+#metas {
+	border  : 1px black dotted;
+	padding : 1em;
+}
+
+#metas #title {
+	text-decoration : underline;
 }
 
 /*
@@ -175,49 +196,69 @@ figure figcaption {
 	margin-bottom : 1em;
 }
 
-#menu {
-/*	overflom: hidden;*/
+footer {
+	text-align    : center;
+	margin-top    : 2em;
+	margin-bottom : 20%;
 }
 
 .sub-menu {
-/* 	overflow: hidden;*/
-}
-
-.menu-entry {
-/*	float: left; */
-}
-
-.sub-menu {
-	font-size: 0.9em;
-	display: none;
-	width: 100%;
-	z-index: 1;
-	position: absolute;
+	font-size : 0.9em;
+	display   : none;
+	width     : 100%;
+	z-index   : 1;
+	position  : absolute;
 	/*
 	 * This is awful: we rely on this to move the div
 	 * containing the submenu below. But we musn't go
 	 * too far, for otherwise, if we move out of the
 	 * .menu-entry, we'll lose the :hover and the submenu
 	 * would disappear.
+	 *
+	 * The menu items font is 1.5em, so we take 1.4em to be
+	 * "on it". We must add 1em because we add some extra
+	 * padding in the .menu-entry-url to center elements
+	 * horizontally. Hence, 1+1.4em.
+	 *
+	 * It's still a bit clumsy looking, but it seems to work
+	 * (narrow screens unmanaged yet, TODO). Ideally, we'd
+	 * want the submenus to be displayed horizontally on
+	 * a second row, but still without any JS, somewhat like:
+	 *	https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_subnav
 	 */
-	margin-top: 6em;
-	left: 0;
-	background-color: #fff0d9;
-	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	text-align: center;
+	margin-top       : 2.4em;
+	top              : 0;
+	left             : 0;
+	background-color : #fff0d9;
+	box-shadow       : 0px 8px 16px 0px rgba(0,0,0,0.2);
+	text-align       : center;
 }
 
 /* When you move the mouse over the subnav container, open the subnav content */
 .menu-entry:hover .sub-menu {
-	display: block;
+	display : block;
 }
 
-.menu-entry-url {
-	width: 100%;
-	text-align: center;
+/* Precise query to override #menu a's height */
+#menu a.menu-entry-url {
+	width      : 100%;
+	height     : fit-content;
+	text-align : center;
+	padding    : 1em;
+	margin     : auto;
 }
 
 .sub-menu > a {
-	display: block;
-	width: 100%;
+	display : block;
+	width   : 100%;
+}
+
+.imgs-grid {
+	display : grid;
+	grid-template-columns : 1fr 1fr 1fr;
+}
+
+.imgs-grid > * {
+	justify-self : center;
+	align-self   : center;
 }

@@ -1,0 +1,8 @@
+{{- $plate := index .args 0 -}}
+{{- $lang  := index .args 1 -}}
+<div id="metas">
+	<h1 id="title">{{- index .db.plates $plate $lang "name" -}}</h1>
+	<div id="trs">{{- template "trs" wrap $plate $lang -}}</div>
+	<div id="date">{{- template "date" wrap $plate $lang -}}</div>
+	<div id="update">{{- template "update" wrap $plate $lang -}}</div>
+</div>

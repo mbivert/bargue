@@ -1,1 +1,0 @@
-<a {{ if (index .args 2) }}class="int-link"{{ end }} href="{{- index .args 0 -}}">{{- index .args 1 -}}</a>
