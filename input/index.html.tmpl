@@ -1,13 +1,7 @@
 {{< header "en" >}}
 
-<h2 class="title">All plates</h2>
+{{< metas "index" "en" >}}
 
-<div class="imgs-grid">
-{{< range $k, $v := .db.groups >}}
-	{{< range $v >}}
-		{{< gridfigure . "en" >}}
-	{{< end >}}
-{{< end >}}
-</div>
+{{< listallplates "en" >}}
 
 {{< footer "en" >}}

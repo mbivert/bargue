@@ -1,10 +1,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
+			<loc>file:///home/mb/gits/bargue/output/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/fr/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/parts-of-the-head/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/fr/fragments-de-tetes/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
 			<loc>file:///home/mb/gits/bargue/output/plate_I-01_eyes/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		<url>
-			<loc>file:///home/mb/gits/bargue/output/fr/plate_I-01_yeux/</loc>
+			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-01_yeux/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		<url>
@@ -12,7 +28,7 @@
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		<url>
-			<loc>file:///home/mb/gits/bargue/output/fr/plate_I-02_bouches/</loc>
+			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-02_bouches/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		<url>
@@ -20,7 +36,15 @@
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		<url>
-			<loc>file:///home/mb/gits/bargue/output/fr/plate_I-03_nez/</loc>
+			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-03_nez/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/plate_I-05_profile-of-the-foot/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-05_pieds-de-profile/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		

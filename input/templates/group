@@ -1,0 +1,9 @@
+{{- $page := index .args 0 -}}
+{{- $lang := index .args 1 -}}
+
+{{- template "metas"  wrap $page $lang -}}
+<div class="imgs-grid">
+{{- range (index .db.groups $page) -}}
+	{{- template "gridfigure" wrap . $lang -}}
+{{- end -}}
+</div>

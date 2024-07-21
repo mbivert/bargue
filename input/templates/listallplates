@@ -1,0 +1,9 @@
+{{- $p := . -}}
+{{- $lang := index .args 0 -}}
+<div class="imgs-grid">
+{{- range $k := .db.groupsKeys -}}
+	{{- range (index $p.db.groups $k) -}}
+		{{- template "gridfigure" wrap . $lang -}}
+	{{- end -}}
+{{- end -}}
+</div>

@@ -25,32 +25,19 @@
 
 	"author" : "Mathieu Bivert",
 
-	"// groups -> $name -> { names : { en, fr } plates : [] }" : "",
-	"groups" : {
-		"parts-of-the-head" : [
-			"plate_I-01_eyes",
-			"plate_I-02_mouths",
-			"plate_I-03_noses"
-		],
-		"feet" : [
-		],
-		"hands" : [
-		],
-		"arms" : [
-		],
-		"legs" : [
-		],
-		"heads-in-profile" : [
-		],
-		"heads-in-three-quarter-views" : [
-		],
-		"heads-in-frontal-views" : [
-		],
-		"torsos" : [
-		],
-		"complete-figures" : [
-		]
-	},
+	"// Keys for db/groups.json in the correct order": "",
+	"groupsKeys" : [
+		"parts-of-the-head",
+		"feet",
+		"hands",
+		"arms",
+		"legs",
+		"heads-in-profile",
+		"heads-in-three-quarter-views",
+		"heads-in-frontal-views",
+		"torsos",
+		"complete-figures"
+	],
 
 	"menu" : {
 		"en" : [
@@ -92,9 +79,9 @@
 	},
 
 	"i18n" : {
-		"Translations" : {
-			"en" : "Translations",
-			"fr" : "Traductions"
+		"translations" : {
+			"en" : "translations",
+			"fr" : "traductions"
 		},
 		"date" : {
 			"en" : "date",

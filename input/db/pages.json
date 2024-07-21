@@ -1,0 +1,86 @@
+{
+	"index" : {
+		"en" : {
+			"url"    : "/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "All plates"
+		},
+		"fr" : {
+			"url"    : "/fr/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Toutes les planches"
+		}
+	},
+	"parts-of-the-head" : {
+		"en" : {
+			"url"    : "/parts-of-the-head/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Parts of the head"
+		},
+		"fr" : {
+			"url"    : "/fr/fragments-de-tetes/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Fragments de têtes"
+		}
+	},
+	"plate_I-01_eyes" : {
+		"en" : {
+			"url"    : "/plate_I-01_eyes/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,1 - Eyes"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-01_yeux/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,1 - Yeux"
+		}
+	},
+	"plate_I-02_mouths" : {
+		"en" : {
+			"url"    : "/plate_I-02_mouths/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,2 - Mouths"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-02_bouches/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,2 - Bouches"
+		}
+	},
+	"plate_I-03_noses" : {
+		"en" : {
+			"url"    : "/plate_I-03_noses/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,3 - Noses"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-03_nez/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,3 - Nez"
+		}
+	},
+	"plate_I-05_profile-of-the-foot" : {
+		"en" : {
+			"url"    : "/plate_I-05_profile-of-the-foot/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,5 - Profile of the foot"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-05_pieds-de-profile/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,5 - Pieds de profile"
+		}
+	}
+}

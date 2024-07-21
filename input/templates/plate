@@ -1,5 +1,5 @@
-{{- $plate := index .args 0 -}}
-{{- $lang  := index .args 1 -}}
+{{- $page := index .args 0 -}}
+{{- $lang := index .args 1 -}}
 
-{{- template "metas"  wrap $plate $lang -}}
-{{- template "figure" wrap $plate $lang -}}
+{{- template "metas"  wrap $page $lang -}}
+{{- template "figure" wrap $page $lang -}}

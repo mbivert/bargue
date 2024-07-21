@@ -4,6 +4,8 @@ collect all plates
 
 better menu
 
+check-deps Makefile (dtmpl)
+
 image groups / thumbnails
 
 add high quality images to
