@@ -125,6 +125,20 @@
 			"name"   : "Têtes de face"
 		}
 	},
+	"torsos" : {
+		"en" : {
+			"url"    : "/torsos/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Torsos"
+		},
+		"fr" : {
+			"url"    : "/fr/torses/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Torses"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -291,6 +305,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,49 - Agrippa"
+		}
+	},
+	"plate_I-55_the_beledevere-torso-rear-view" : {
+		"en" : {
+			"url"    : "/plate_I-55_the_beledevere-torso-rear-view/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,55 - The Belvedere Torso, rear view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-55_le-torse-du-belvedere-vu-de-dos/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,55 - Le Torse du Belvédère, vu de dos"
 		}
 	}
 }
