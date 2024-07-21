@@ -139,6 +139,20 @@
 			"name"   : "Torses"
 		}
 	},
+	"complete-figures" : {
+		"en" : {
+			"url"    : "/complete-figures/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Complete figures"
+		},
+		"fr" : {
+			"url"    : "/fr/ensembles/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "ensembles"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -319,6 +333,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,55 - Le Torse du Belvédère, vu de dos"
+		}
+	},
+	"plate_I-65_knight" : {
+		"en" : {
+			"url"    : "/plate_I-65_knight/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,65 - Knight"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-65_cavalier/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,65 - Cavalier"
 		}
 	}
 }
