@@ -97,6 +97,20 @@
 			"name"   : "Têtes de profile"
 		}
 	},
+	"heads-in-three-quarter-views" : {
+		"en" : {
+			"url"    : "/heads-in-three-quarter-views/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Heads in three-quarter viwes"
+		},
+		"fr" : {
+			"url"    : "/fr/tetes-de-trois-quarts/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Têtes de trois quarts"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -235,6 +249,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,31 - Néron, enfant"
+		}
+	},
+	"plate_I-41_the_capitoline_ariadne" : {
+		"en" : {
+			"url"    : "/plate_I-41_the_capitoline_ariadne/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,41 - The Capitoline Ariadne"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-41_ariane-du-capitole/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,41 - Ariane du Capitole"
 		}
 	}
 }
