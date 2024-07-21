@@ -8,3 +8,5 @@ set -e
 which go      > /dev/null
 # See https://github.com/mbivert/dtmpl/
 which dtmpl   > /dev/null
+# Used in ./mkthumbnails.sh
+which magick  > /dev/null

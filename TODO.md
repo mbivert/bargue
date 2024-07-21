@@ -1,4 +1,4 @@
-image groups / thumbnails
+css border, mobile tests
 
 More plates
 

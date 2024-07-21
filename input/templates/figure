@@ -5,7 +5,13 @@
 {{- $d := parse (index .descrs $lang) -}}
 <figure>
 	<a href="{{- $l -}}">
-	<img class="framed" loading="lazy" alt="{{- html $d -}}" src="{{ $l -}}" />
+	<img
+		class="framed" loading="lazy" alt="{{- html $d -}}" src="{{ $l -}}"
+		{{/* -4 == len(".jpg") */}}
+		srcset="{{- range $p.db.srcsetSizes -}}
+			{{- printf "%s-%.fw.jpg %.fw," (slice $l 0 (add (len $l) -4)) . . -}}
+		{{- end -}}" sizes="50vw"
+	/>
 	</a>
 	{{/* Display license-related <meta> tags */}}
 	{{- if .license -}}

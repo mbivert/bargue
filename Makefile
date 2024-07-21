@@ -18,7 +18,7 @@ check-deps:
 	@echo All dependencies found
 
 .PHONY: site
-site: site-pp input/
+site: input/ site-pp thumbnails
 	@echo Building site from input/ to output/...
 	@${dtmpl} input/ output/
 
@@ -30,3 +30,8 @@ bargue-pp: bargue-pp.go
 site-pp: bargue-pp input/
 	@echo Preprocessing...
 	@./bargue-pp input/
+
+.PHONY: thumbnails
+thumbnails: mkthumbnails.sh
+	@echo Making thumbnails/smaller images...
+	@sh mkthumbnails.sh

@@ -39,6 +39,9 @@
 		"complete-figures"
 	],
 
+	"// This must matches ../mkthumbnails.sh. Oh well. " : "",
+	"srcsetSizes" : [320, 480, 640, 800, 1000],
+
 	"menu" : {
 		"en" : [
 			[ "🏠",                  "/",                   [] ],
