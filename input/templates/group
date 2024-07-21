@@ -1,9 +1,15 @@
+{{- $p    := .             -}}
 {{- $page := index .args 0 -}}
 {{- $lang := index .args 1 -}}
 
 {{- template "metas"  wrap $page $lang -}}
 <div class="imgs-grid">
 {{- range (index .db.groups $page) -}}
-	{{- template "gridfigure" wrap . $lang -}}
+	{{/*
+		"." contains the group "id", which corresponds to the English's URL.
+		But we also want to fetch the URL corresponding to $lang
+	*/}}
+	{{- $url := index $p.db.pages . $lang "url" -}}
+	{{- template "gridfigure" wrap . $url $lang -}}
 {{- end -}}
 </div>

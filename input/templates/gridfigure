@@ -1,10 +1,11 @@
 {{/* TODO: quick hack; see if/how we can merge this with ./figure */}}
 {{- $p := . -}}
 {{- $name := index .args 0 -}}
-{{- $lang := index .args 1 -}}
+{{- $url  := index .args 1 -}}
+{{- $lang := index .args 2 -}}
 {{- with index $.db.imgs $name -}}
 {{- $l := print $p.db.baseurl "/" .file -}}
-{{- $al := print $p.db.baseurl "/" $name "/" -}}
+{{- $al := print $p.db.baseurl "/" $url "/" -}}
 {{- $d := parse (index .descrs $lang) -}}
 <figure>
 	<a href="{{- $al -}}">
