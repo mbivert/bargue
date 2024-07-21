@@ -30,7 +30,7 @@
 	"feet" : {
 		"en" : {
 			"url"    : "/feet/",
-			"date"   : "2024-07-20",
+			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Feet"
 		},
@@ -44,7 +44,7 @@
 	"hands" : {
 		"en" : {
 			"url"    : "/hands/",
-			"date"   : "2024-07-20",
+			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Hands"
 		},
@@ -53,6 +53,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Mains"
+		}
+	},
+	"arms" : {
+		"en" : {
+			"url"    : "/arms/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Arms"
+		},
+		"fr" : {
+			"url"    : "/fr/bras/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Bras"
 		}
 	},
 	"plate_I-01_eyes" : {
@@ -151,6 +165,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,12 - Main fermée et main appuyée"
+		}
+	},
+	"plate_I-18_arm-of-man-vertical-position" : {
+		"en" : {
+			"url"    : "/plate_I-18_arm-of-man-vertical-position/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,18 - Arm of a man, vertical position"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-18_bras-d-homme-vertical/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,18 - Bras d'homme, vertical"
 		}
 	}
 }

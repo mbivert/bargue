@@ -1,5 +1,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
+			<loc>file:///home/mb/gits/bargue/output/arms/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/fr/bras/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
 			<loc>file:///home/mb/gits/bargue/output/feet/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
@@ -85,6 +93,14 @@
 		</url>
 		<url>
 			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-12_main-fermee-et-main-appuyee/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/plate_I-18_arm-of-man-vertical-position/</loc>
+			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
+		</url>
+		<url>
+			<loc>file:///home/mb/gits/bargue/output/fr/planche_I-18_bras-d-homme-vertical/</loc>
 			<lastmod>2024-07-21T00:00:00+07:00</lastmod>
 		</url>
 		
