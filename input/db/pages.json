@@ -111,6 +111,20 @@
 			"name"   : "Têtes de trois quarts"
 		}
 	},
+	"heads-in-frontal-views" : {
+		"en" : {
+			"url"    : "/heads-in-frontal-views/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Heads in frontal views"
+		},
+		"fr" : {
+			"url"    : "/fr/tetes-de-face/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Têtes de face"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -263,6 +277,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,41 - Ariane du Capitole"
+		}
+	},
+	"plate_I-49_agrippa" : {
+		"en" : {
+			"url"    : "/plate_I-49_agrippa/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,49 - Agrippa"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-49_agrippa/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,49 - Agrippa"
 		}
 	}
 }
