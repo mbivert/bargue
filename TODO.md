@@ -1,12 +1,10 @@
-translation / traduction i18n
+image groups / thumbnails
 
-collect all plates
+More plates
 
 better menu
 
-check-deps Makefile (dtmpl)
-
-image groups / thumbnails
+favicon
 
 add high quality images to
 	https://commons.wikimedia.org/wiki/Category:Bargue-G%C3%A9r%C3%B4me_Drawing_Course_I
