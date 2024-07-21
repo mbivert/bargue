@@ -83,6 +83,20 @@
 			"name"   : "Jambes"
 		}
 	},
+	"heads-in-profile" : {
+		"en" : {
+			"url"    : "/heads-in-profile/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Heads in profile"
+		},
+		"fr" : {
+			"url"    : "/fr/tetes-de-profile/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Têtes de profile"
+		}
+	},
 	"plate_I-01_eyes" : {
 		"en" : {
 			"url"    : "/plate_I-01_eyes/",
@@ -207,6 +221,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,25 - Jambe du Germanicus, profil"
+		}
+	},
+	"plate_I-31-nero-as-a-child" : {
+		"en" : {
+			"url"    : "/plate_I-31-nero-as-a-child/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,31 - Nero as a child"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-31_neron-enfant/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,31 - Néron, enfant"
 		}
 	}
 }
