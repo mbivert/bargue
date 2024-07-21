@@ -138,5 +138,19 @@
 			"update" : "2024-07-21",
 			"name"   : "Planche I,11 - Mains de profil"
 		}
+	},
+	"plate_I-12_closed-hand-and-leaning-hand" : {
+		"en" : {
+			"url"    : "/plate_I-12_closed-hand-and-leaning-hand/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Plate I,12 - Closed hand and leaning hand"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-12_main-fermee-et-main-appuyee/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Planche I,12 - Main fermée et main appuyée"
+		}
 	}
 }
