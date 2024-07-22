@@ -307,6 +307,20 @@
 			"name"   : "Planche I,12 - Main fermée et main appuyée"
 		}
 	},
+	"plate_I-17_arm-of-man-horizontal-position" : {
+		"en" : {
+			"url"    : "/plate_I-17_arm-of-man-horizontal-position/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,17 - Arm of a man, horizontal position"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-17_bras-d-homme-horizontal/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,17 - Bras d'homme, horizontal"
+		}
+	},
 	"plate_I-18_arm-of-man-vertical-position" : {
 		"en" : {
 			"url"    : "/plate_I-18_arm-of-man-vertical-position/",
