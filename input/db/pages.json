@@ -130,7 +130,7 @@
 			"url"    : "/heads-in-three-quarter-views/",
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
-			"name"   : "Heads in three-quarter viwes"
+			"name"   : "Heads in three-quarter views"
 		},
 		"fr" : {
 			"url"    : "/fr/tetes-de-trois-quarts/",
@@ -753,6 +753,104 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,41 - Ariane du Capitole"
+		}
+	},
+	"plate_I-42_children-by-francois-flamand" : {
+		"en" : {
+			"url"    : "/plate_I-42_children-by-francois-flamand/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,42 - Children, by François Flamand"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-42_enfants-de-francois-flamand/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,42 - Enfants, de François Flamand"
+		}
+	},
+	"plate_I-43_faustina" : {
+		"en" : {
+			"url"    : "/plate_I-43_faustina/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,43 - Faustina"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-43_faustine/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,43 - Faustine"
+		}
+	},
+	"plate_I-44_psyche-of-naples" : {
+		"en" : {
+			"url"    : "/plate_I-44_psyche-of-naples/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,44 - Psyché of Naples"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-44_psyche-de-naples/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,44 - Psyché de Naples"
+		}
+	},
+	"plate_I-45_capitoline-ariadne" : {
+		"en" : {
+			"url"    : "/plate_I-45_capitoline-ariadne/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,45 - Capitoline Ariadne"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-45_ariane-du-capitole/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,45 - Ariane du Capitole"
+		}
+	},
+	"plate_I-46_young-boy" : {
+		"en" : {
+			"url"    : "/plate_I-46_young-boy/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,46 - Young boy"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-46_jeune-garcon/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,46 - Jeune garçon"
+		}
+	},
+	"plate_I-47_head-of-a-horse" : {
+		"en" : {
+			"url"    : "/plate_I-47_head-of-a-horse/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,47 - Head of a horse"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-47_tete-de-cheval/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,47 - Tête de cheval"
+		}
+	},
+	"plate_I-48_phocion" : {
+		"en" : {
+			"url"    : "/plate_I-48_phocion/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,48 - Phocion"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-48_phocion/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,48 - Phocion"
 		}
 	},
 	"plate_I-49_agrippa" : {

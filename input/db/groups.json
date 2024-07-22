@@ -84,6 +84,13 @@
 		"plate_I-40_julia-mammaea",
 
 		"plate_I-41_the-capitoline-ariadne",
+		"plate_I-42_children-by-francois-flamand",
+		"plate_I-43_faustina",
+		"plate_I-44_psyche-of-naples",
+		"plate_I-45_capitoline-ariadne",
+		"plate_I-46_young-boy",
+		"plate_I-47_head-of-a-horse",
+		"plate_I-48_phocion",
 
 		"plate_I-49_agrippa"
 	],
@@ -101,7 +108,14 @@
 		"plate_I-40_julia-mammaea"
 	],
 	"heads-in-three-quarter-views" : [
-		"plate_I-41_the-capitoline-ariadne"
+		"plate_I-41_the-capitoline-ariadne",
+		"plate_I-42_children-by-francois-flamand",
+		"plate_I-43_faustina",
+		"plate_I-44_psyche-of-naples",
+		"plate_I-45_capitoline-ariadne",
+		"plate_I-46_young-boy",
+		"plate_I-47_head-of-a-horse",
+		"plate_I-48_phocion"
 	],
 	"heads-in-frontal-views" : [
 		"plate_I-49_agrippa"
