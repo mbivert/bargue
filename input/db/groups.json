@@ -29,7 +29,12 @@
 		"plate_I-23_man-s-arm-bent",
 		"plate_I-24_arm-of-moses-by-michelangelo",
 
-		"plate_I-25-leg-of-germanicus-in-profile"
+		"plate_I-25_leg-of-germanicus-in-profile",
+		"plate_I-26_child-s-leg-rear-view",
+		"plate_I-27_leg-of-germanicus-front-view",
+		"plate_I-28_leg-of-the-crouching-venus",
+		"plate_I-29_leg-of-the-venus-de-medici",
+		"plate_I-30_legs-of-the-dying-slave-by-michelangelo"
 	],
 	"feet" : [
 		"plate_I-05_profile-of-the-foot",
@@ -58,17 +63,22 @@
 		"plate_I-24_arm-of-moses-by-michelangelo"
 	],
 	"legs" : [
-		"plate_I-25-leg-of-germanicus-in-profile"
+		"plate_I-25_leg-of-germanicus-in-profile",
+		"plate_I-26_child-s-leg-rear-view",
+		"plate_I-27_leg-of-germanicus-front-view",
+		"plate_I-28_leg-of-the-crouching-venus",
+		"plate_I-29_leg-of-the-venus-de-medici",
+		"plate_I-30_legs-of-the-dying-slave-by-michelangelo"
 	],
 
 	"heads" : [
-		"plate_I-31-nero-as-a-child",
+		"plate_I-31_nero-as-a-child",
 		"plate_I-41_the-capitoline-ariadne",
 		"plate_I-49_agrippa"
 	],
 
 	"heads-in-profile" : [
-		"plate_I-31-nero-as-a-child"
+		"plate_I-31_nero-as-a-child"
 	],
 	"heads-in-three-quarter-views" : [
 		"plate_I-41_the-capitoline-ariadne"

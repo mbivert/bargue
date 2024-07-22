@@ -517,12 +517,12 @@
 			"name"   : "Planche I,24 - Bras du Moïse de Michel-Ange"
 		}
 	},
-	"plate_I-25-leg-of-germanicus-in-profile" : {
+	"plate_I-25_leg-of-germanicus-in-profile" : {
 		"en" : {
 			"url"    : "/plate_I-25-leg-of-germanicus-in-profile/",
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
-			"name"   : "Plate I,25 - Legs of Germanicus in profile"
+			"name"   : "Plate I,25 - Leg of Germanicus in profile"
 		},
 		"fr" : {
 			"url"    : "/fr/planche_I-25-jambe-du-germanicus-profil/",
@@ -531,9 +531,79 @@
 			"name"   : "Planche I,25 - Jambe du Germanicus, profil"
 		}
 	},
-	"plate_I-31-nero-as-a-child" : {
+	"plate_I-26_child-s-leg-rear-view" : {
 		"en" : {
-			"url"    : "/plate_I-31-nero-as-a-child/",
+			"url"    : "/plate_I-26_child-s-leg-rear-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,26 - Child’s leg, rear view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-26-jambe-d-enfant/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,26 - Jambe d’enfant"
+		}
+	},
+	"plate_I-27_leg-of-germanicus-front-view" : {
+		"en" : {
+			"url"    : "/plate_I-27_leg-of-germanicus-front-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,27 - Leg of Germanicus, front view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-27-jambe-du-germanicus-face/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,27 - Jambe du Germanicus, face"
+		}
+	},
+	"plate_I-28_leg-of-the-crouching-venus" : {
+		"en" : {
+			"url"    : "/plate_I-28_leg-of-the-crouching-venus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,28 - Leg of the Crouching Venus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-28-jambe-de-la-venus-accroupie/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,28 - Jambe de la Vénus accroupie"
+		}
+	},
+	"plate_I-29_leg-of-the-venus-de-medici" : {
+		"en" : {
+			"url"    : "/plate_I-29_leg-of-the-venus-de-medici/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,29 - Leg of the Venus de Medici"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-29-jambe-de-la-venus-de-medicis/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,29 - Jambe de la Vénus de Médicis"
+		}
+	},
+	"plate_I-30_legs-of-the-dying-slave-by-michelangelo" : {
+		"en" : {
+			"url"    : "/plate_I-30_legs-of-the-dying-slave-by-michelangelo/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,30 - Legs of the Dying Slave, by Michelangelo"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-30-jambes-de-l-esclave-mourant-de-michel-ange/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,30 - Jambes de L’Esclave mourant de Michel-Ange"
+		}
+	},
+	"plate_I-31_nero-as-a-child" : {
+		"en" : {
+			"url"    : "/plate_I-31_nero-as-a-child/",
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Plate I,31 - Nero as a child"

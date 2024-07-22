@@ -10,7 +10,7 @@
 		{{/* -4 == len(".jpg") */}}
 		srcset="{{- range $p.db.srcsetSizes -}}
 			{{- printf "%s-%.fw.jpg %.fw," (slice $l 0 (add (len $l) -4)) . . -}}
-		{{- end -}}" sizes="50vw"
+		{{- end -}}" sizes="33vw"
 	/>
 	</a>
 	{{/* Display license-related <meta> tags */}}
