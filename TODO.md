@@ -2,8 +2,6 @@ mobile tests
 
 Navigation button (previous/next plate)
 
-More plates
-
 better menu
 
 favicon

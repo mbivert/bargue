@@ -143,6 +143,11 @@
 		"plate_I-64_female-torso-rear-view"
 	],
 	"complete-figures" : [
-		"plate_I-65_knight"
+		"plate_I-65_knight",
+		"plate_I-66_two-knights",
+		"plate_I-67_cincinnatus",
+		"plate_I-68_achilles",
+		"plate_I-69_germanicus",
+		"plate_I-70_saint-martha"
 	]
 }

@@ -1090,5 +1090,75 @@
 			"update" : "2024-07-21",
 			"name"   : "Planche I,65 - Cavalier"
 		}
+	},
+	"plate_I-66_two-knights" : {
+		"en" : {
+			"url"    : "/plate_I-66_two-knights/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,66 - Two knights"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-66_deux-cavaliers/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,66 - Deux cavaliers"
+		}
+	},
+	"plate_I-67_cincinnatus" : {
+		"en" : {
+			"url"    : "/plate_I-67_cincinnatus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,67 - Cincinnatus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-67_cincinnatus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,67 - Cincinnatus"
+		}
+	},
+	"plate_I-68_achilles" : {
+		"en" : {
+			"url"    : "/plate_I-68_achilles/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,68 - Achilles"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-68_achille/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,68 - Achille"
+		}
+	},
+	"plate_I-69_germanicus" : {
+		"en" : {
+			"url"    : "/plate_I-69_germanicus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,69 - Germanicus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-69_germanicus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,69 - Germanicus"
+		}
+	},
+	"plate_I-70_saint-martha" : {
+		"en" : {
+			"url"    : "/plate_I-70_saint-martha/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,70 - Saint Martha"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-70_sainte-marthe/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,70 - Sainte Marthe"
+		}
 	}
 }

@@ -17,9 +17,16 @@ check-deps:
 	@sh check-deps.sh
 	@echo All dependencies found
 
+.PHONY: test-site
+test-site: input/ site-pp thumbnails
+	@echo Building test site from input/ to output/...
+	@echo '"file:///home/mb/gits/bargue/output"' > input/db/baseurl.json
+	@${dtmpl} input/ output/
+
 .PHONY: site
 site: input/ site-pp thumbnails
 	@echo Building site from input/ to output/...
+	@echo '"https://bargue.mbivert.com"' > input/db/baseurl.json
 	@${dtmpl} input/ output/
 
 bargue-pp: bargue-pp.go
