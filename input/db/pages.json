@@ -867,18 +867,214 @@
 			"name"   : "Planche I,49 - Agrippa"
 		}
 	},
-	"plate_I-55_the_beledevere-torso-rear-view" : {
+	"plate_I-50_marcus-brutus" : {
 		"en" : {
-			"url"    : "/plate_I-55_the_beledevere-torso-rear-view/",
+			"url"    : "/plate_I-50_marcus-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,50 - Marcus Brutus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-50_marcus-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,50 - Marcus Brutus"
+		}
+	},
+	"plate_I-51_jupiter-trophonius" : {
+		"en" : {
+			"url"    : "/plate_I-51_jupiter-trophonius/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,51 - Jupiter Trophonius"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-51_jupiter-trophonius/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,51 - Jupiter Trophonius"
+		}
+	},
+	"plate_I-52_lucius-junius-brutus" : {
+		"en" : {
+			"url"    : "/plate_I-52_lucius-junius-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,52 - Lucius Junius Brutus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-52_lucius-junius-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,52 - Lucius Junius Brutus"
+		}
+	},
+	"plate_I-53_young-woman-life-cast" : {
+		"en" : {
+			"url"    : "/plate_I-53_young-woman-life-cast/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,53 - Young woman. Life cast"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-53_jeune-fille-moulage-sur-nature/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,53 - Jeune fille. Moulage sur nature"
+		}
+	},
+	"plate_I-54_homer" : {
+		"en" : {
+			"url"    : "/plate_I-54_homer/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,54 - Homer"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-54_homere/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,54 - Homère"
+		}
+	},
+	"plate_I-55_beledevere-torso-rear-view" : {
+		"en" : {
+			"url"    : "/plate_I-55_beledevere-torso-rear-view/",
 			"date"   : "2024-07-21",
-			"update" : "2024-07-21",
-			"name"   : "Plate I,55 - The Belvedere Torso, rear view"
+			"update" : "2024-07-22",
+			"name"   : "Plate I,55 - Belvedere Torso, rear view"
 		},
 		"fr" : {
 			"url"    : "/fr/planche_I-55_le-torse-du-belvedere-vu-de-dos/",
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Planche I,55 - Le Torse du Belvédère, vu de dos"
+		}
+	},
+	"plate_I-56_male-torso-back-view" : {
+		"en" : {
+			"url"    : "/plate_I-56_male-torso-back-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,56 - Male torso, back view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-56_torse-d-homme-vu-de-dos/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,56 - Torse d'homme, vu de dos"
+		}
+	},
+	"plate_I-57_female-torso-three-quarter-view" : {
+		"en" : {
+			"url"    : "/plate_I-57_female-torso-three-quarter-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,57 - Female torso, three-quarter view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-57_torse-de-femme-vu-de-trois-quarts/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,57 - Torse de femme, vu de trois quarts"
+		}
+	},
+	"plate_I-58_milo-of-crotone-by-pierre-puget" : {
+		"en" : {
+			"url"    : "/plate_I-58_milo-of-crotone-by-pierre-puget/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,58 - Milo of Crotone, by Pierre Puget"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-58_milon-de-crotone-de-pierre-puget/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,58 - Milon de Crotone, de Pierre Puget"
+		}
+	},
+	"plate_I-59_vatican-amazon-draped" : {
+		"en" : {
+			"url"    : "/plate_I-59_vatican-amazon-draped/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,59 - Vatican Amazon, draped"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-59_amazone-du-vatican-drapee/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,59 - Amazone du Vatican, drapée"
+		}
+	},
+	"plate_I-60_male-torso-three-quarter-view" : {
+		"en" : {
+			"url"    : "/plate_I-60_male-torso-three-quarter-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,60 - Male torso, three-quarter view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-60_torse-d-homme-vu-de-trois-quarts/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,60 - Torse d’homme, vu de trois quarts"
+		}
+	},
+	"plate_I-61_theseus" : {
+		"en" : {
+			"url"    : "/plate_I-61_theseus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,61 - Theseus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-61_thesee/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,61 - Thésée"
+		}
+	},
+	"plate_I-62_ilissos" : {
+		"en" : {
+			"url"    : "/plate_I-62_ilissos/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,62 - Ilissos"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-62_l-ilissus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,62 - L'Ilissus"
+		}
+	},
+	"plate_I-63_beledevere-torso-front-view" : {
+		"en" : {
+			"url"    : "/plate_I-63_beledevere-torso-front-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,63 - Belvedere Torso, front view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-63_le-torse-du-belvedere-vu-de-face/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,63 - Le torse du Belvédère, vu de face"
+		}
+	},
+	"plate_I-64_female-torso-rear-view" : {
+		"en" : {
+			"url"    : "/plate_I-64_female-torso-rear-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,64 - Female torso, rear view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-64_torse-de-femme-vu-de-dos/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,64 - Torse de femme, vu de dos"
 		}
 	},
 	"plate_I-65_knight" : {

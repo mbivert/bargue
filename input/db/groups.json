@@ -92,7 +92,12 @@
 		"plate_I-47_head-of-a-horse",
 		"plate_I-48_phocion",
 
-		"plate_I-49_agrippa"
+		"plate_I-49_agrippa",
+		"plate_I-50_marcus-brutus",
+		"plate_I-51_jupiter-trophonius",
+		"plate_I-52_lucius-junius-brutus",
+		"plate_I-53_young-woman-life-cast",
+		"plate_I-54_homer"
 	],
 
 	"heads-in-profile" : [
@@ -118,10 +123,24 @@
 		"plate_I-48_phocion"
 	],
 	"heads-in-frontal-views" : [
-		"plate_I-49_agrippa"
+		"plate_I-49_agrippa",
+		"plate_I-50_marcus-brutus",
+		"plate_I-51_jupiter-trophonius",
+		"plate_I-52_lucius-junius-brutus",
+		"plate_I-53_young-woman-life-cast",
+		"plate_I-54_homer"
 	],
 	"torsos" : [
-		"plate_I-55_the_beledevere-torso-rear-view"
+		"plate_I-55_beledevere-torso-rear-view",
+		"plate_I-56_male-torso-back-view",
+		"plate_I-57_female-torso-three-quarter-view",
+		"plate_I-58_milo-of-crotone-by-pierre-puget",
+		"plate_I-59_vatican-amazon-draped",
+		"plate_I-60_male-torso-three-quarter-view",
+		"plate_I-61_theseus",
+		"plate_I-62_ilissos",
+		"plate_I-63_beledevere-torso-front-view",
+		"plate_I-64_female-torso-rear-view"
 	],
 	"complete-figures" : [
 		"plate_I-65_knight"

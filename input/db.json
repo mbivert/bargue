@@ -1,6 +1,6 @@
 {
-	"// baseurl" : "https://bargue.mbivert.com",
-	"baseurl" : "file:///home/mb/gits/bargue/output",
+	"baseurl" : "https://bargue.mbivert.com",
+	"// baseurl" : "file:///home/mb/gits/bargue/output",
 
 	"title" : {
 		"en" : "Charle's Bargue drawing course",
