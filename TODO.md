@@ -1,4 +1,4 @@
-css border, mobile tests
+mobile tests
 
 Navigation button (previous/next plate)
 

@@ -22,6 +22,12 @@
 
 		"plate_I-17_arm-of-man-horizontal-position",
 		"plate_I-18_arm-of-man-vertical-position",
+		"plate_I-19_flexed-forearm-of-a-man",
+		"plate_I-20_child-s-arm-interior-view",
+		"plate_I-21_child-s-arm-exterior-view",
+		"plate_I-22_woman-s-arm-bent",
+		"plate_I-23_man-s-arm-bent",
+		"plate_I-24_arm-of-moses-by-michelangelo",
 
 		"plate_I-25-leg-of-germanicus-in-profile"
 	],
@@ -43,7 +49,13 @@
 	],
 	"arms" : [
 		"plate_I-17_arm-of-man-horizontal-position",
-		"plate_I-18_arm-of-man-vertical-position"
+		"plate_I-18_arm-of-man-vertical-position",
+		"plate_I-19_flexed-forearm-of-a-man",
+		"plate_I-20_child-s-arm-interior-view",
+		"plate_I-21_child-s-arm-exterior-view",
+		"plate_I-22_woman-s-arm-bent",
+		"plate_I-23_man-s-arm-bent",
+		"plate_I-24_arm-of-moses-by-michelangelo"
 	],
 	"legs" : [
 		"plate_I-25-leg-of-germanicus-in-profile"

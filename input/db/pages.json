@@ -433,6 +433,90 @@
 			"name"   : "Planche I,18 - Bras d'homme, vertical"
 		}
 	},
+	"plate_I-19_flexed-forearm-of-a-man" : {
+		"en" : {
+			"url"    : "/plate_I-19_flexed-forearm-of-a-man/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,19 - Flexed forearm of a man"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-19_bras-d-homme-ploye-interieur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,19 - Bras d'homme, ployé, intérieur"
+		}
+	},
+	"plate_I-20_child-s-arm-interior-view" : {
+		"en" : {
+			"url"    : "/plate_I-20_child-s-arm-interior-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,20 - Child's arm, interior view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-20_bras-d-enfant-interieur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,20 - Bras d'enfant, intérieur"
+		}
+	},
+	"plate_I-21_child-s-arm-exterior-view" : {
+		"en" : {
+			"url"    : "/plate_I-21_child-s-arm-exterior-view/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,21 - Child's arm, exterior view"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-21_bras-d-enfant-exterieur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,21 - Bras d'enfant, extérieur"
+		}
+	},
+	"plate_I-22_woman-s-arm-bent" : {
+		"en" : {
+			"url"    : "/plate_I-22_woman-s-arm-bent/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,22 - Woman's arm, bent"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-22_bras-de-femme-ploye/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,22 - Bras de femme, ployé"
+		}
+	},
+	"plate_I-23_man-s-arm-bent" : {
+		"en" : {
+			"url"    : "/plate_I-23_man-s-arm-bent/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,23 - Man's arm, bent"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-23_bras-d-homme-ploye-exterieur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,23 - Bras d'homme, ployé, extérieur"
+		}
+	},
+	"plate_I-24_arm-of-moses-by-michelangelo" : {
+		"en" : {
+			"url"    : "/plate_I-24_arm-of-moses-by-michelangelo/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,24 - Arm of moses, by Michelangelo"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-24_bras-du-moise-de-michel-ange/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,24 - Bras du Moïse de Michel-Ange"
+		}
+	},
 	"plate_I-25-leg-of-germanicus-in-profile" : {
 		"en" : {
 			"url"    : "/plate_I-25-leg-of-germanicus-in-profile/",
