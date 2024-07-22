@@ -615,6 +615,132 @@
 			"name"   : "Planche I,31 - Néron, enfant"
 		}
 	},
+	"plate_I-32_cardinal-jimenez" : {
+		"en" : {
+			"url"    : "/plate_I-32_cardinal-jimenez/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,32 - Cardinal Jiménez"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-32_le-cardinal-ximenes/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,32 - Le cardinal Ximénès"
+		}
+	},
+	"plate_I-33_young-girl-life-cast" : {
+		"en" : {
+			"url"    : "/plate_I-33_young-girl-life-cast/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,33 - Young girl. Life cast"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-33_jeune-fille-moulage-sur-nature/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,33 - Jeune fille. Moulage sur nature"
+		}
+	},
+	"plate_I-34_dante" : {
+		"en" : {
+			"url"    : "/plate_I-34_dante/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,34 - Dante"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-34_dante/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,34 - Dante"
+		}
+	},
+	"plate_I-35_the-cardinal-de-birague-by-germain-pilon" : {
+		"en" : {
+			"url"    : "/plate_I-35_the-cardinal-de-birague-by-germain-pilon/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,35 - The Cardinal de Birague, by Germain Pilon"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-35_le-cardinal-de-birague-de-germain-pilon/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,35 - Le cardinal de Birague, de Germain Pilon"
+		}
+	},
+	"plate_I-36_marcus-brutus" : {
+		"en" : {
+			"url"    : "/plate_I-36_marcus-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,36 - Marcus Brutus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-36_marcus-brutus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,36 - Marcus Brutus"
+		}
+	},
+	"plate_I-37_head-of-a-horse-parthenon" : {
+		"en" : {
+			"url"    : "/plate_I-37_head-of-a-horse-parthenon/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,37 - Head of a horse, Parthenon"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-37_tete-de-cheval-parthenon/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,37 - Tête de cheval, Parthénon"
+		}
+	},
+	"plate_I-38_caracalla" : {
+		"en" : {
+			"url"    : "/plate_I-38_caracalla/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,38 - Caracalla"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-38_caracalla/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,38 - Caracalla"
+		}
+	},
+	"plate_I-39_anne-of-brittany-by-giovanni-giusti" : {
+		"en" : {
+			"url"    : "/plate_I-39_anne-of-brittany-by-giovanni-giusti/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,39 - Anne of Brittany, by Giovanni Giusti"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-39_anne-de-bretagne-de-jean-juste-de-tours/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,39 - Anne de Bretagne, de Jean Juste de Tours"
+		}
+	},
+	"plate_I-40_julia-mammaea" : {
+		"en" : {
+			"url"    : "/plate_I-40_julia-mammaea/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,40 - Julia Mammaea"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-40_julia-mamea/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,40 - Julia Mamea"
+		}
+	},
 	"plate_I-41_the-capitoline-ariadne" : {
 		"en" : {
 			"url"    : "/plate_I-41_the-capitoline-ariadne/",

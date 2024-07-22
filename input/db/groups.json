@@ -73,12 +73,32 @@
 
 	"heads" : [
 		"plate_I-31_nero-as-a-child",
+		"plate_I-32_cardinal-jimenez",
+		"plate_I-33_young-girl-life-cast",
+		"plate_I-34_dante",
+		"plate_I-35_the-cardinal-de-birague-by-germain-pilon",
+		"plate_I-36_marcus-brutus",
+		"plate_I-37_head-of-a-horse-parthenon",
+		"plate_I-38_caracalla",
+		"plate_I-39_anne-of-brittany-by-giovanni-giusti",
+		"plate_I-40_julia-mammaea",
+
 		"plate_I-41_the-capitoline-ariadne",
+
 		"plate_I-49_agrippa"
 	],
 
 	"heads-in-profile" : [
-		"plate_I-31_nero-as-a-child"
+		"plate_I-31_nero-as-a-child",
+		"plate_I-32_cardinal-jimenez",
+		"plate_I-33_young-girl-life-cast",
+		"plate_I-34_dante",
+		"plate_I-35_the-cardinal-de-birague-by-germain-pilon",
+		"plate_I-36_marcus-brutus",
+		"plate_I-37_head-of-a-horse-parthenon",
+		"plate_I-38_caracalla",
+		"plate_I-39_anne-of-brittany-by-giovanni-giusti",
+		"plate_I-40_julia-mammaea"
 	],
 	"heads-in-three-quarter-views" : [
 		"plate_I-41_the-capitoline-ariadne"
