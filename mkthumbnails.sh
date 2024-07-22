@@ -3,7 +3,7 @@
 set -e
 
 ind=input/
-force=
+force="$1"
 
 for x in . $ind/*.jpg; do
 	#  Safety (literal "input/*.jpg")

@@ -223,6 +223,20 @@
 			"name"   : "Planche I,3 - Nez"
 		}
 	},
+	"plate_I-04_ears" : {
+		"en" : {
+			"url"    : "/plate_I-04_ears/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,4 - Ears"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-04_oreilles/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,4 - Oreilles"
+		}
+	},
 	"plate_I-05_profile-of-the-foot" : {
 		"en" : {
 			"url"    : "/plate_I-05_profile-of-the-foot/",
