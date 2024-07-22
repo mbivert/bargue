@@ -265,6 +265,20 @@
 			"name"   : "Planche I,6 - Pieds, talons"
 		}
 	},
+	"plate_I-07_foot-of-the-gladiator" : {
+		"en" : {
+			"url"    : "/plate_I-07_foot-of-the-gladiator/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,7 - Foot of the gladiator"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-07_-pied-du-gladiateur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,7 - Pied du gladiateur"
+		}
+	},
 	"plate_I-11_hands-in-profile" : {
 		"en" : {
 			"url"    : "/plate_I-11_hands-in-profile/",
