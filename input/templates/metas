@@ -1,5 +1,6 @@
 {{- $page := index .args 0 -}}
 {{- $lang := index .args 1 -}}
+{{/* warn (printf "%s %s %s" $page $lang "name") */}}
 <div id="metas">
 	<h1 id="title">{{- index .db.pages $page $lang "name" -}}</h1>
 	<div id="trs">{{- template "trs" wrap $page $lang -}}</div>

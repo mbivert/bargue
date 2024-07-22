@@ -15,6 +15,10 @@
 
 		"plate_I-11_hands-in-profile",
 		"plate_I-12_closed-hand-and-leaning-hand",
+		"plate_I-13_hand-of-voltaire",
+		"plate_I-14_hand-holding-a-whetstone",
+		"plate_I-15_hand-of-a-woman-pressing-her-breast",
+		"plate_I-16_hand-of-a-woman-holding-a-stone",
 
 		"plate_I-17_arm-of-man-horizontal-position",
 		"plate_I-18_arm-of-man-vertical-position",
@@ -31,7 +35,11 @@
 	],
 	"hands" : [
 		"plate_I-11_hands-in-profile",
-		"plate_I-12_closed-hand-and-leaning-hand"
+		"plate_I-12_closed-hand-and-leaning-hand",
+		"plate_I-13_hand-of-voltaire",
+		"plate_I-14_hand-holding-a-whetstone",
+		"plate_I-15_hand-of-a-woman-pressing-her-breast",
+		"plate_I-16_hand-of-a-woman-holding-a-stone"
 	],
 	"arms" : [
 		"plate_I-17_arm-of-man-horizontal-position",

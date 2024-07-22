@@ -349,6 +349,62 @@
 			"name"   : "Planche I,12 - Main fermée et main appuyée"
 		}
 	},
+	"plate_I-13_hand-of-voltaire" : {
+		"en" : {
+			"url"    : "/plate_I-13_hand-of-voltaire/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,13 - Closed hand and leaning hand"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-13_main-de-voltaire/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,13 - Main de Voltaire"
+		}
+	},
+	"plate_I-14_hand-holding-a-whetstone" : {
+		"en" : {
+			"url"    : "/plate_I-14_hand-holding-a-whetstone/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,14 - Hand holding a whetstone"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-14_main-de-faucheur/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,14 - Main de faucheur"
+		}
+	},
+	"plate_I-15_hand-of-a-woman-pressing-her-breast" : {
+		"en" : {
+			"url"    : "/plate_I-15_hand-of-a-woman-pressing-her-breast/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,15 - Hand of woman pressing her breast"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-15_main-d-une-femme-pressant-son-sein/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,15 - Main d'une femme pressant son sein"
+		}
+	},
+	"plate_I-16_hand-of-a-woman-holding-a-stone" : {
+		"en" : {
+			"url"    : "/plate_I-16_hand-of-a-woman-holding-a-stone/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,16 - Hand of a woman holding a stone "
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-16_main-de-femme/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,16 - Main de femme"
+		}
+	},
 	"plate_I-17_arm-of-man-horizontal-position" : {
 		"en" : {
 			"url"    : "/plate_I-17_arm-of-man-horizontal-position/",
