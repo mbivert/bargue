@@ -273,10 +273,52 @@
 			"name"   : "Plate I,7 - Foot of the gladiator"
 		},
 		"fr" : {
-			"url"    : "/fr/planche_I-07_-pied-du-gladiateur/",
+			"url"    : "/fr/planche_I-07_pied-du-gladiateur/",
 			"date"   : "2024-07-22",
 			"update" : "2024-07-22",
 			"name"   : "Planche I,7 - Pied du gladiateur"
+		}
+	},
+	"plate_I-08_foot-of-the-medici-venus" : {
+		"en" : {
+			"url"    : "/plate_I-08_foot-of-the-medici-venus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,8 - Foot of the Medici Venus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-08_pied-de-la-venus-de-medicis/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,8 - Pied de la Vénus de Médicis"
+		}
+	},
+	"plate_I-09_sole-of-the-foot" : {
+		"en" : {
+			"url"    : "/plate_I-09_sole-of-the-foot/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,9 - Sole of the foot"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-09_plante-de-pied/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,9 - Plante de pied"
+		}
+	},
+	"plate_I-10_foot-of-germanicus" : {
+		"en" : {
+			"url"    : "/plate_I-10_foot-of-germanicus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Plate I,10 - Foot of Germanicus"
+		},
+		"fr" : {
+			"url"    : "/fr/planche_I-10_pied-du-germanicus/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Planche I,10 - Pied du Germanicus"
 		}
 	},
 	"plate_I-11_hands-in-profile" : {
