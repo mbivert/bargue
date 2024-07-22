@@ -27,6 +27,20 @@
 			"name"   : "Fragments de têtes"
 		}
 	},
+	"limbs" : {
+		"en" : {
+			"url"    : "/limbs/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Limbs"
+		},
+		"fr" : {
+			"url"    : "/fr/membres/",
+			"date"   : "2024-07-21",
+			"update" : "2024-07-21",
+			"name"   : "Membres"
+		}
+	},
 	"feet" : {
 		"en" : {
 			"url"    : "/feet/",
@@ -81,6 +95,20 @@
 			"date"   : "2024-07-21",
 			"update" : "2024-07-21",
 			"name"   : "Jambes"
+		}
+	},
+	"heads" : {
+		"en" : {
+			"url"    : "/heads/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Heads"
+		},
+		"fr" : {
+			"url"    : "/fr/tetes/",
+			"date"   : "2024-07-22",
+			"update" : "2024-07-22",
+			"name"   : "Têtes"
 		}
 	},
 	"heads-in-profile" : {

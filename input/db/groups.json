@@ -4,6 +4,17 @@
 		"plate_I-02_mouths",
 		"plate_I-03_noses"
 	],
+	"limbs" : [
+		"plate_I-05_profile-of-the-foot",
+		"plate_I-06_heels",
+
+		"plate_I-11_hands-in-profile",
+		"plate_I-12_closed-hand-and-leaning-hand",
+
+		"plate_I-18_arm-of-man-vertical-position",
+
+		"plate_I-25-leg-of-germanicus-in-profile"
+	],
 	"feet" : [
 		"plate_I-05_profile-of-the-foot",
 		"plate_I-06_heels"
@@ -18,6 +29,13 @@
 	"legs" : [
 		"plate_I-25-leg-of-germanicus-in-profile"
 	],
+
+	"heads" : [
+		"plate_I-31-nero-as-a-child",
+		"plate_I-41_the-capitoline-ariadne",
+		"plate_I-49_agrippa"
+	],
+
 	"heads-in-profile" : [
 		"plate_I-31-nero-as-a-child"
 	],
