@@ -1,0 +1,6 @@
+{{/* XXX maybe those should be automatically appended to db/urls.json */}}
+{{- $page := index .args 0 -}}
+{{- $lang := index .args 1 -}}
+{{- $text := index .args 2 -}}
+{{- $url  := print .db.baseurl "/" (index .db.pages $page $lang "url") -}}
+{{- template "urlhtml" (wrap $url $text "internal") -}}

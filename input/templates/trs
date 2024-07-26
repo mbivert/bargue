@@ -4,7 +4,7 @@
 {{- if ge (len (index .db.pages $page)) 2 -}}
 	{{- $base := .db.baseurl -}}
 	<u>{{- index .db.i18n "translations" $lang -}}</u>:
-	{{- range $k, $v := (index .db.pages $page) -}}
+	{{ range $k, $v := (index .db.pages $page) -}}
 		{{- if not (eq $k $lang) -}}
 			<a href="{{ $base }}{{ $v.url }}">{{ $k }}</a>
 		{{- end -}}

@@ -13,6 +13,20 @@
 			"name"   : "Toutes les planches"
 		}
 	},
+	"about" : {
+		"en" : {
+			"url"    : "/about/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-26",
+			"name"   : "All plates"
+		},
+		"fr" : {
+			"url"    : "/fr/a-propos/",
+			"date"   : "2024-07-20",
+			"update" : "2024-07-26",
+			"name"   : "À propos"
+		}
+	},
 	"parts-of-the-head" : {
 		"en" : {
 			"url"    : "/parts-of-the-head/",

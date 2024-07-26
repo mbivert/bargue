@@ -229,6 +229,16 @@
 		"url"   : "https://archive.org/details/C.BargueDrawingCourse",
 		"title" : "archive.org/details/C.BargueDrawingCourse"
 	},
+	"bargue-encore" : {
+		"url"   : "https://shop.charlesbargueprints.com/en/",
+		"title" : "Bargue Encore"
+	},
+	"mbivert.com" : {
+		"url"   : "https://mbivert.com"
+	},
+	"tales-bargue-graphite" : {
+		"url"   : "https://tales.mbivert.com/on-pencils-for-bargue/"
+	},
 	"tales-bargue-pencils" : {
 		"url"   : "https://tales.mbivert.com/on-pencils-for-bargue/",
 		"title" : "tales.mbivert.com/on-pencils-for-bargue/"
@@ -236,6 +246,13 @@
 	"tales-on-bargue-intro" : {
 		"url"   : "https://tales.mbivert.com/on-bargue-drawing-course/",
 		"title" : "tales.mbivert.com/on-bargue-drawing-course/"
+	},
+	"tales-same-size" : {
+		"url"   : "https://tales.mbivert.com/on-same-size/",
+		"title" : "tales.mbivert.com/on-same-size/"
+	},
+	"instagram-me-bargue-plate-I-54-homer-wip" : {
+		"url"   : "https://www.instagram.com/p/C4YMmF0tBUt/"
 	},
 	"gh-mb-bargue" : {
 		"url"   : "https://github.com/mbivert/bargue/",

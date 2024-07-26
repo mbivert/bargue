@@ -7,6 +7,7 @@ all: site
 help:
 	@echo Available targets:
 	@echo "	site/all   : build the website"
+	@echo "	dev-site   : dev (local) site"
 	@echo "	site-pp    : run bargue-pp on the site"
 	@echo "	bargue-pp  : build bargue-pp"
 	@echo "	check-deps : check for dependencies"
@@ -17,9 +18,9 @@ check-deps:
 	@sh check-deps.sh
 	@echo All dependencies found
 
-.PHONY: test-site
-test-site: input/ site-pp thumbnails
-	@echo Building test site from input/ to output/...
+.PHONY: dev-site
+dev-site: input/ site-pp thumbnails
+	@echo Building dev site from input/ to output/...
 	@echo '"file:///home/mb/gits/bargue/output"' > input/db/baseurl.json
 	@${dtmpl} input/ output/
 

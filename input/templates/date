@@ -1,4 +1,4 @@
 {{- $page := index .args 0 -}}
 {{- $lang := index .args 1 -}}
 <u>{{ index .db.i18n "date" $lang }}</u>:
-	{{- datefmt (index .db.pages $page $lang "date") "2006-01-02" "2006-01-02" -}}
+	{{ datefmt (index .db.pages $page $lang "date") "2006-01-02" "2006-01-02" -}}
